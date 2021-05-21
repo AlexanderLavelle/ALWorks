@@ -1,0 +1,7 @@
+Run files in Processing,
+Modeling
+Prediction assessment
+
+in that order
+
+befre running recommendation system notebook
