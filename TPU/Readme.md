@@ -18,7 +18,7 @@ The easiest links to use are the "train2" and "test2" .tfrecord files (represent
 
 ----------------------------------------------------------------
 
-You may also need to connect your Google account (though shouldn't). Here's the boilerplate incase you need to do the search for how to do that:
+You may also need to connect your Google account (though hopefully not). Here's the boilerplate incase you need to do the research for how to do that:
 
 ```
 from kaggle_secrets import UserSecretsClient
