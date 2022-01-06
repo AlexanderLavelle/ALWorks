@@ -1,6 +1,7 @@
 This is some boilerplate for training the Art Classification dataset on TPU. 
 
-The original link is [here @ Kaggle](https://www.kaggle.com/ikarus777/best-artworks-of-all-time)
+The original link is [here @ Kaggle](https://www.kaggle.com/ikarus777/best-artworks-of-all-time).
+A like on that dataset as well as the [TPU version](https://www.kaggle.com/alexanderlav/tpu-bestartworksofalltime) would surely be appreciated!
 
 The dataset has been stratified by target and split 80/20. 
 
