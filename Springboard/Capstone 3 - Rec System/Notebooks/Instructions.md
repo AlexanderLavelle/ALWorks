@@ -1,2 +1,0 @@
-# This is a repository containing my Capstone 3 project for Springboard. 
-#### This recommendation system GUI is capable of recommending movies to "existing" and "new" users and attempts to keep fresh and interesting recommendations. Nothing is worse than seeing the same recommendations over and over again on Netflix, particularly when they take up real estate that could be something more exciting or fitting. In this effort, there is some shuffling and prioritizing of different algorithms to keep you on your feet! 
